@@ -1,0 +1,6 @@
+test/
+GUI/build/build/gui/
+GUI/build/build/dist
+dist/
+tkinter/
+conversor.py

@@ -1,0 +1,4 @@
+fitz
+PIL
+pathlib
+tkinte
