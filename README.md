@@ -6,7 +6,9 @@ A quick GUI python base pdf conversor, not a big deal but very handy and quick f
 
 I order to download the program, just go to and download the .exe file:
 
-```https://github.com/mimorep/GUI-pdf-conversor/releases/download/stable/PDF2PNG.exe```
+```
+https://github.com/mimorep/GUI-pdf-conversor/releases/download/stable/PDF2PNG.exe
+```
 
 
 ## How to use
@@ -20,6 +22,10 @@ Just double click the .exe and select one of the two options provided:
 
 Just clone the repo and run with:
 
-```pip3 install -r requirements.txt```
+```
+pip3 install -r requirements.txt
+```
 
-```python3 gui.py```
+```
+python3 gui.py
+```
