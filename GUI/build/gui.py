@@ -3,7 +3,7 @@ import os
 
 from PIL import Image, ImageTk
 from pathlib import Path
-from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
+from tkinter import Tk, Canvas, Button, PhotoImage
 from tkinter import filedialog, messagebox
 
 
@@ -99,7 +99,6 @@ def pdf_button_click ():
         parse_pdf(file_path)
     
 ###### End Buttons events ######
-
 
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
